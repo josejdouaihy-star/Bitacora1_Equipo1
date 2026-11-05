@@ -2,7 +2,7 @@
 ## Algoritmo: Ordenamiento por Selección (Selection Sort)
 ### Maestría en Tecnologías de la Información · Cohorte X (2026-III)
 ### Análisis y Diseño de Algoritmos · Profesora Msc. Ana Sosa
-### Equipo 1 · Sección 4: Implementación y Pruebas
+### Equipo 1
 
 ---
 
